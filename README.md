@@ -1,3 +1,8 @@
+=======================
+The advantage of v2 version is that it supports encapsulating Shadowsocks with obfs4, which v3 still does not support yet.
+
+=======================
+
 gost - GO Simple Tunnel
 ======
  
