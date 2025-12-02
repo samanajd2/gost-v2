@@ -3,6 +3,8 @@
 
 **The advantage of GOST v2 is that it supports encapsulating Shadowsocks with obfs4, which v3 still does not support yet.**
 
+**So I updated the dependencies - especially obfs4 - to the latest version, then rebuilt.**
+
 =======================
 
 gost - GO Simple Tunnel
